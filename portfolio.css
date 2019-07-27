@@ -1,0 +1,41 @@
+body {
+     background-color: #F3EEEE;
+     }
+h1{
+    color:blue;
+    text-align: center;
+    font-family: "Georgia", serif;
+}
+ img{
+     float: left;
+     width: 30%;
+     height: auto;
+    }
+  div.container{
+      line-height: 200%;
+      width: 1000px; margin: 0 auto;
+     
+    }
+    li {
+        float: right;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+       }
+    .button{
+        color: white;
+    }
+    .button:hover{
+        color:red;
+    }
+    li:first-child{
+        margin-right: 100px;
+    }
+     ul{
+        width: 1000px; margin: 0 auto;
+        position: fixed;
+        top: 0;
+        width: 100%; 
+        background-color: #727272;
+        }
